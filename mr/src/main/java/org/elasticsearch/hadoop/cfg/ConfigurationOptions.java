@@ -63,7 +63,7 @@ public interface ConfigurationOptions {
 
     /** WAN only */
     String ES_NODES_WAN_ONLY = "es.nodes.wan.only";
-    String ES_NODES_WAN_ONLY_DEFAULT = "false";
+    String ES_NODES_WAN_ONLY_DEFAULT = "true";
 
     String ES_NODES_RESOLVE_HOST_NAME = "es.nodes.resolve.hostname";
 
